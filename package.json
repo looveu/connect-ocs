@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/looveu/connect-ocs/issues"
   },
-  "homepage": "https://github.com/looveu/connect-ocs#readme"
+  "homepage": "https://github.com/looveu/connect-ocs#readme",
+  "dependencies": {
+    "aliyun-sdk": "^1.6.0"
+  }
 }
