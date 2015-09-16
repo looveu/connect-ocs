@@ -1,0 +1,24 @@
+{
+  "name": "connect-ocs",
+  "version": "0.1.0",
+  "description": "connect session middleware use aliyun ocs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/looveu/connect-ocs.git"
+  },
+  "keywords": [
+    "ocs",
+    "aliyun",
+    "connect"
+  ],
+  "author": "DomLiang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/looveu/connect-ocs/issues"
+  },
+  "homepage": "https://github.com/looveu/connect-ocs#readme"
+}
