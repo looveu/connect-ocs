@@ -1,7 +1,7 @@
 {
   "name": "connect-ocs",
   "version": "0.1.0",
-  "description": "connect session middleware use aliyun ocs",
+  "description": "a copy of `connect-memcached` add the aliyun ocs suport, connect session middleware use aliyun ocs",
   "main": "index.js",
   "scripts": {
     "test": "npm test"
