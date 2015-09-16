@@ -26,8 +26,8 @@ app.use(session({
     , store   : new OcsStore({
         host: 'your ocs host',
         port: 11211, // or your ocs port
-        username: 'your ocs username',
-        password: 'your ocs password'
+        ocsKey: 'your ocs username',
+        ocsSecret: 'your ocs password'
     })
 }));
 
