@@ -1,7 +1,7 @@
 # connect-ocs
 a copy of `connect-memcached` add the aliyun ocs suport
 
-[![Build Status](https://travis-ci.org/krakenjs/levee.svg)](https://img.shields.io/npm/dm/localeval.svg)
+[![Build Status](https://img.shields.io/npm/dm/localeval.svg)](https://img.shields.io/npm/dm/localeval.svg)
 ## Installation
 
   via npm:
